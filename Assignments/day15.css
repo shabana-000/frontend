@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+    border-radius:border-box;
+}
+
+.container{
+    display-flex;
+    background-color:darkcyan;
+
+}
+.container-section{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    padding:5px;
+    margin:5px;
+
+}
+.heading1{
+    font-size: :80px;
+    
+    justify-content:center;
+    
+}
